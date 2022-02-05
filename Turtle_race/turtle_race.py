@@ -1,6 +1,6 @@
 '''
-Thi is an small voice controlled Python turtle race game. The movement the game starts, we got to move each turtle with voice comman "GO".
-Following are the required libraries which are required for the funcitoning of this program
+This is an small voice controlled Python turtle race game. The movement the game starts, we got to move each turtle with voice command "GO".
+Following are the required libraries which are required for the functioning of this program
 '''
 
 
