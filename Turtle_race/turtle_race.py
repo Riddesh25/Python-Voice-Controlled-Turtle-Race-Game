@@ -4,7 +4,7 @@ Following are the required libraries which are required for the functioning of t
 '''
 
 
-from gtts import gTTS
+
 import speech_recognition as sr
 from pygame import mixer
 import playsound
